@@ -95,6 +95,10 @@
       <Project>{cee93f6a-d8fa-44cb-9881-d5cd832b8bf2}</Project>
       <Name>DAO</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{e1762222-03e2-451a-8ba9-d23c00e54f18}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

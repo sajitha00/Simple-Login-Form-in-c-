@@ -45,9 +45,9 @@
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(279, 214);
+            this.txtEmail.Location = new System.Drawing.Point(269, 208);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(183, 22);
+            this.txtEmail.Size = new System.Drawing.Size(193, 22);
             this.txtEmail.TabIndex = 1;
             this.txtEmail.Text = "l";
             // 
@@ -72,9 +72,9 @@
             // 
             // btnSubmit
             // 
-            this.btnSubmit.Location = new System.Drawing.Point(387, 257);
+            this.btnSubmit.Location = new System.Drawing.Point(387, 251);
             this.btnSubmit.Name = "btnSubmit";
-            this.btnSubmit.Size = new System.Drawing.Size(75, 23);
+            this.btnSubmit.Size = new System.Drawing.Size(75, 36);
             this.btnSubmit.TabIndex = 4;
             this.btnSubmit.Text = "Submit";
             this.btnSubmit.UseVisualStyleBackColor = true;
